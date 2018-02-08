@@ -1,0 +1,14 @@
+Name: JungSoo Choi
+Studnet number: 134708155
+Section: C
+Lab#4
+
+
+1) safe empty state is the constructor that initialize the variables for future use.
+   You simply create the constructor with variables that initialized within it.
+
+2) The case that when I tried to compare two strings, I could store the values in the Passenger and use it to make compairson with other values.
+	This work simplifies the whole work just by using namesapce.
+
+
+3) I learend how to use constructor that can be used many varitey of ways such as empty state, multiple objects. 

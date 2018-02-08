@@ -1,0 +1,9 @@
+﻿  passenger.cpp
+c:\users\jake choi\desktop\oop-workshop4-master\oop-workshop4-master\in-lab\passenger.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\jake choi\desktop\oop-workshop4-master\oop-workshop4-master\in-lab\passenger.cpp(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+  w4_in_lab.cpp
+  코드를 생성하고 있습니다...
+  Workshop-04.vcxproj -> C:\Users\Jake Choi\Desktop\OOP-Workshop4-master\OOP-Workshop4-master\in-lab\Debug\Workshop-04.exe
+  Workshop-04.vcxproj -> C:\Users\Jake Choi\Desktop\OOP-Workshop4-master\OOP-Workshop4-master\in-lab\Debug\Workshop-04.pdb (Full PDB)
