@@ -1,0 +1,15 @@
+Name: Jung Soo Choi
+Student number: 134708155
+Section: C
+Lab #3 at home part
+
+
+2:
+
+Do-While loop is one of looping condition. It loops at least one time and stopes when loop ends when do while loop meets its condtion.
+
+For example, from my work, we gave prompt to user to enter the information of card. User will need to fill it out untill every informations are valid.
+
+In the 'while', it contains the condtion where loop should be stopped.
+
+When computer stores credit card number, number has to be in ragne between min length and max length. Also, number has to be integer.
