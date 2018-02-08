@@ -1,0 +1,10 @@
+Nmae: Jung Soo Choi
+Student number: 134708155
+Lab #2 home part
+
+1. If the dynamic memmory is not deallocated, the memmory will keep pilling up. To use memomry effectivley, delocation is needed.
+
+2. Dynamic memory keeps containing information for future uses. If user does not delocate it, all memory will be filled. However user can always use that inforamtion anytime. I used dynamic memory with 'new' command.
+	However, static memory holds inoformation for short time. It will only be used at that time. I used static memory with declaring variables such as 'count'
+
+3. I learn how to make dynamic memory and static memory to be used. With dynamic memory, i could use it to make output the contents of it.
