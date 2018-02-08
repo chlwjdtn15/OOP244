@@ -1,0 +1,7 @@
+OPP244 section C 1st lab reflection
+Name: Jung Soo Choi
+Student number: 134708155
+
+1. namespace is identifier used for keeping different variables (scopes) in one namespace. namepace helps programmers with choosing name when they have same scopes. namespace is significantly effective when seveal programmers are working together.
+
+2. header files are needed and useful because it can contain protypes, defines, variables and constants. It helps programmers when they wants to use contents anytime they want.

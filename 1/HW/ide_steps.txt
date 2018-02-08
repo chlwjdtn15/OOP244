@@ -1,0 +1,25 @@
+OOP244 Section C 1st lab At_Home part
+Name: Jung Soo Choi
+Student number: 134708155
+#1. b)
+
+1.Open the 'Visual Studio'.
+2.Select 'New Project'.
+3.On the list on left side, open 'Visual C++', click 'Win32' (make sure you select 'Win32 Console Application), and click 'ok'.
+4.If you see the new screen, select 'Next', uncheck 'Precomiled header', 'Security Development Lifecyde (SDL) checks, and check 'Empty project'.
+5.Select 'Finish'
+6.Under 'Project' menue, click 'Add New Item'.
+7.Select 'Visual C++' and make sure you are selecting C++ File(.cpp). You can check it on the screen in middle.
+8.Name your file and make sure you leave '.cpp' after name.
+9.Write "#include <iostream>"
+10.Write 'using namespace std;'
+11.Write 
+	int main() {
+		int i;
+		cout << "Enter an integer : ";
+		cin >> i;
+		cout << "You entered " << i << endl;
+	}
+12.Compile code by select 'Build Solution' under 'Build' menue.
+13.If it is succfully built, select 'Start without debugging' under 'Debug' menue.
+14.Check if your code works fine.
