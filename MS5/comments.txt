@@ -1,0 +1,32 @@
+Studnet Name: Jung Soo Choi
+Studnet Number: 134708155
+Project: Milestone 5
+
+
+I honestly write this comment for submission.
+
+First, because I was not able to finish this milestone by myself, I worked with 3 friends.
+
+I was helped by my friend who works in computer industry.
+
+
+
+I mostly brought but not cpoied code of Data from Hun Bae because my Data.cpp file was not working properly when I tried to put it in my last project.
+
+In PosApp.cpp file, in line 146, 188,and 246, I was helped to understand how this function would work by my friend. However, I was just advised. I did not write as my friend told me.
+
+In NonPerishable.cpp, in line 62, I was helped to write this code since I could not make it myself.
+
+Beside them, I did all work by myself, and never used anyone's work.
+
+The reason why I submit this throguh open submission:
+
+
+
+First, both short and long submission have error. Short one shows me that I have '^M' at the end of very first line. With Visual studio, I get perfectly same output as PDF (sample output) show.
+
+Second, I cannot also submit my work with long submission because for the last step that I need to show the list of the items, The 'Milk' which is the first item is shown when it should not to be. The text file that created by matrix automatically put Milk at the very top of the item list, and the PDF shows me that 'Milk' should not be on the top of item list.
+
+Because of these two error that I cannot be able to fix due to these two are matrix problem.
+
+With visual studio, my Milestone 5 works completely fine and shows output same as PDF's sample output.
